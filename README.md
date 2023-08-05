@@ -1,5 +1,5 @@
 # API DE PRODUTOS
-## API utilizada no curso de cloud para demonstrar o deploy na cloud AWS.
+## API utilizada para demonstrar o deploy na cloud AWS.
 
 
 ### Tecnologia utilizadas:
@@ -7,5 +7,4 @@
 - SPRING BOOT
 - OPEN API
 - JPA
-- MYSQL
-- H2
+- POSTGRES
